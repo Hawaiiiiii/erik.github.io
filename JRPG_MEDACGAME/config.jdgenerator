@@ -1,0 +1,113 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Users\\AlumnoT\\Documents\\GitHub\\JRPG-MEDAC-GAME\\JRPG_MEDACGAME\\src",
+    "out": "c:\\Users\\AlumnoT\\Documents\\GitHub\\JRPG-MEDAC-GAME\\JRPG_MEDACGAME\\src\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Java\\jdk-20\\bin\\javadoc.exe",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-20\bin\javadoc.exe" 
+	-sourcepath "c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src" 
+	-d "c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc" 
+	"c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java"
+	"c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java"
+	"c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Jugador.java"
+	"c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java"
+	"c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Tutorial.java"
+
+
+==== JAVADOC OUTPUT ====
+Loading source file c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java...
+Loading source file c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java...
+Loading source file c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Jugador.java...
+Loading source file c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java...
+Loading source file c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Tutorial.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 20.0.2+9-78
+Building tree for all the packages and classes...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\JRPG_MEDACGAME\src\Enemigo.html...
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:28: warning: no main description
+     * @param nombre La clase "Enemigo" representa enemigos en un juego JRPG con atributos como nombre, nivel, ataque.
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:43: warning: no main description
+     * @return Return del Nombre
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:51: warning: no main description
+     * @return Return de los Niveles
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:59: warning: no main description
+     * @param nivel
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:59: warning: no description for @param
+     * @param nivel
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:66: warning: no main description
+     * @return Return de los Puntos de Ataque
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:73: warning: no main description
+     * @param puntosAtaque // El m�todo `setPuntosAtaque(int puntosAtaque)` en
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:87: warning: no main description
+     * @return // El m�todo `getPuntosDefensa()` en la clase `Enemigo` es un
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:100: warning: no main description
+     * @param puntosDefensa El m�todo `setPuntosDefensa(int puntosDefensa)`
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:114: warning: no main description
+     * @return El m�todo `getContadorCombates()` en la clase `Enemigo` es un
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Enemigo.java:18: warning: no comment
+public class Enemigo {
+       ^
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\JRPG_MEDACGAME\src\Inventario.html...
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java:35: warning: no main description
+     * @param jugador Descripci�n del par�metro jugador
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java:46: warning: no main description
+     * @param nombreObjeto Descripci�n del par�metro nombreObjeto
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java:60: warning: no main description
+     * @param nombreObjeto Descripci�n del par�metro nombreObjeto
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java:87: warning: no main description
+     * @param indiceObjeto Descripci�n del par�metro indiceObjeto
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java:116: warning: no main description
+     * @return // M�todo para obtener la cantidad de objetos en el inventario
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Inventario.java:124: warning: no main description
+     * @return // M�todo para obtener el jugador asociado
+       ^
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\JRPG_MEDACGAME\src\Main.html...
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java:25: warning: no main description
+     * @param args La clase Main en Java con un m�todo principal que toma una
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java:199: error: malformed HTML
+     * HashMap de tipo `<String, Enemigo>` y lo llena con un conjunto de objetos
+                        ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java:218: warning: no main description
+     * @param enemy Funci�n de la clase Enemigo.
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java:235: warning: no main description
+     * @param inventario Funci�n de la clase Inventario.
+       ^
+c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\Main.java:21: warning: use of default constructor, which does not provide a comment
+public class Main {
+       ^
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\JRPG_MEDACGAME\src\package-summary.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\JRPG_MEDACGAME\src\package-tree.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\overview-tree.html...
+Building index for all classes...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\allclasses-index.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\allpackages-index.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\index-all.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\search.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\index.html...
+Generating c:\Users\AlumnoT\Documents\GitHub\JRPG-MEDAC-GAME\JRPG_MEDACGAME\src\javadoc\help-doc.html...
+1 error
+21 warnings
+
+
